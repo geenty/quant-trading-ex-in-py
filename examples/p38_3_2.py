@@ -1,5 +1,5 @@
 """
-Example 3.1: Adjusting for Splits and Dividends.
+Example 3.2: Adjusting for Splits and Dividends.
 pg 38
 """
 
